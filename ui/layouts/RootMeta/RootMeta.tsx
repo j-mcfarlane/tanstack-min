@@ -9,7 +9,7 @@ export const RootMeta: React.DetailedHTMLProps<React.MetaHTMLAttributes<HTMLMeta
         content: 'width=device-width, initial-scale=1',
     },
     ...LayoutSeo({
-        title: 'Shakira',
-        description: 'Hips Dont Lie',
+        title: 'Title',
+        description: 'Description',
     }),
 ]
